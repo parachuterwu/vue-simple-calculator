@@ -1,5 +1,5 @@
 # vue-simple-calculator
-
+![alt text](https://raw.githubusercontent.com/wrzkkk/vue-simple-calculator/master/static/Snipaste_2019-07-27_18-55-44.png)
 ## Project setup
 ```
 npm install
